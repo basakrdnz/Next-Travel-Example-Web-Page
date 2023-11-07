@@ -7,3 +7,10 @@ export const NAV_LİNKS =[
     {href:'/', key:'pricing',label:'Pricing'},
     {href:'/', key:'contact_us',label:'Contact Us'},
 ];
+//going one by one for understanding
+export const PEOPLE_URL = [
+    '/person-1.png',
+    '/person-2.png',
+    '/person-3.png',
+    '/person-4.png',
+]
