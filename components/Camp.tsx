@@ -7,7 +7,6 @@ interface CampPromps {
   subtitle: string;
   peopleJoined: string;
 }
-
 const CampSite = ({
   backgroundImage,
   title,

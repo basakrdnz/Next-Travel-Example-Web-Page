@@ -33,7 +33,7 @@ const Footer = () => {
         <div className="flex flex-col">
          <FooterColumn title={FOOTER_CONTACT_INFO.title}>
           {FOOTER_CONTACT_INFO.links.map((link)=>(
-            <Link href="/" key={link.label}>
+            <Link href="/" key={link.label} >
               <p>
                 {link.label}
               </p>
